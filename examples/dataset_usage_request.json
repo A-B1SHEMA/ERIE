@@ -1,0 +1,11 @@
+{
+  "dataset_id": "healthcare_2024_v2",
+  "intended_usage": "analytics",
+  "business_value": "high",
+  "risk_signals": {
+    "pii_present": true,
+    "reidentification_score": 55,
+    "sensitivity_level": "moderate"
+  },
+  "policy_context": ["GDPR"]
+}
